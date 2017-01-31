@@ -2,3 +2,6 @@ hello my name is rk
 
 i am adding new some lines to this file
 hello boys i am creating new code in new branch
+
+
+hello this is conflict code in master
